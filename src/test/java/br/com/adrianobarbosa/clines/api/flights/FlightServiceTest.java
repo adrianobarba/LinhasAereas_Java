@@ -3,7 +3,6 @@ package br.com.adrianobarbosa.clines.api.flights;
 import br.com.adrianobarbosa.clines.api.aircraft.AircraftView;
 import br.com.adrianobarbosa.clines.api.locations.LocationView;
 import br.com.adrianobarbosa.clines.shared.domain.*;
-import br.com.caelum.clines.shared.domain.*;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.mockito.InjectMocks;
